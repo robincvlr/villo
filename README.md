@@ -14,3 +14,8 @@ Pull the Docker image :
 
 Build the Docker image
 `docker build -t villo .`
+
+Run the Docker image
+`docker run villo`
+
+
