@@ -1,5 +1,5 @@
 # Villo
-Data streaming and viewings from Brussel Open Data through the Confluent stack. 
+Data streaming and viewings from Brussel Open Data through the Confluent stack. The producer is a Python script. 
 
 ## Getting started
 ### Prerequisities
