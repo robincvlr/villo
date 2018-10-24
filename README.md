@@ -10,5 +10,4 @@ You 'll need to install Docker :
 
 ### Usage
 Pull the Docker image :
-
 `docker pull blacklabelops/nginx`
