@@ -13,4 +13,4 @@ Pull the Docker image :
 `docker pull rbcvlr/villo`
 
 Build the Docker image
-docker build -t villo .
+`docker build -t villo .`
