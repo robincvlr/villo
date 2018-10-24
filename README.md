@@ -27,3 +27,6 @@ Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 
 ### Architecture
 <p align="center"><img src="https://github.com/robincvlr/villo/blob/master/schematic.png" width=500></p>
+
+### Brussel Opendata
+[API](https://opendata.bruxelles.be/explore/dataset/stations-villo-disponibilites-en-temps-reel/information/)
