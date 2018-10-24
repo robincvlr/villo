@@ -26,4 +26,4 @@ docker run villo
 Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 
 ### Architecture
-<center><img src="https://github.com/robincvlr/villo/blob/master/schematic.png" width=500></center>
+<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/schematic.png" width=500></p>
