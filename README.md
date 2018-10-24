@@ -11,3 +11,6 @@ You 'll need to install Docker :
 ### Usage
 Pull the Docker image :
 `docker pull rbcvlr/villo`
+
+Build the Docker image
+docker build -t villo .
