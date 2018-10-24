@@ -21,7 +21,7 @@ docker build -t villo .
 
 Run the Docker image
 ```shell
-`docker run villo`
+docker run villo
 ```
 
 
