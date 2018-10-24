@@ -7,3 +7,7 @@ You 'll need to install Docker :
 - [Windows](https://docs.docker.com/docker-for-windows/)
 - [Linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - [OS X](https://docs.docker.com/docker-for-mac/)
+
+### Usage
+Pull the Docker image 
+`docker pull blacklabelops/nginx`
