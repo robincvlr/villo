@@ -9,5 +9,6 @@ You 'll need to install Docker :
 - [OS X](https://docs.docker.com/docker-for-mac/)
 
 ### Usage
-Pull the Docker image 
+Pull the Docker image :
+
 `docker pull blacklabelops/nginx`
