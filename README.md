@@ -30,3 +30,6 @@ Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 
 ### Brussel Opendata
 [API](https://opendata.bruxelles.be/explore/dataset/stations-villo-disponibilites-en-temps-reel/information/)
+
+### Open Weather Map
+[API](https://openweathermap.org/api)
