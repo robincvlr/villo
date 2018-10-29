@@ -9,19 +9,9 @@ You 'll need to install Docker :
 - [OS X](https://docs.docker.com/docker-for-mac/)
 
 ### Usage
-Pull the Docker image :
+Compose the Docker :
 ```shell
-docker pull rbcvlr/villo
-```
-
-Build the Docker image
-```shell
-docker build -t villo .
-```
-
-Run the Docker image
-```shell
-docker run villo
+docker-compose up -d
 ```
 Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 
