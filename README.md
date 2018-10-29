@@ -35,4 +35,4 @@ Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 [API](https://openweathermap.org/api)
 
 ### Visualisations
-<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/screen_kibana.png" width=800></p>
+<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/screen_kibana.png" width=900></p>
