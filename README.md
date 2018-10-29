@@ -33,3 +33,6 @@ Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 
 ### Open Weather Map
 [API](https://openweathermap.org/api)
+
+### Visualisations
+<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/screen-kibana.png" width=500></p>
