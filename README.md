@@ -17,7 +17,7 @@ Watch active containers :
 ```shell
 docker ps
 ```
-<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/resources/process.PNG" width=1000></p>
+<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/resources/process.PNG" width=1300></p>
 
 Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 
