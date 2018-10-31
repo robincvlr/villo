@@ -1,5 +1,5 @@
 # Villo
-Data streaming and viewings from Brussel Open Data / Open Weather Data through the Confluent stack. The producer is a Python script using `confluent_kafka`. 
+Data streaming and viewings from Brussel Open Data / Open Weather Data through the Confluent stack. Producers are Python scripts using `confluent_kafka` lib. 
 
 ## Getting started
 ### Prerequisities
