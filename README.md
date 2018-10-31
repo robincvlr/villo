@@ -25,4 +25,4 @@ Kibana is reachable at : http://<DOCKER_MACHINE_IP>:5601
 [API](https://openweathermap.org/api)
 
 ### Visualisation
-<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/resources/screen_kibana.png" width=1000></p>
+[Temperatures and bike availability in real time]<p align="center"><img src="https://github.com/robincvlr/villo/blob/master/resources/screen_kibana.png" width=1000></p>
